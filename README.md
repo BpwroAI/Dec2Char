@@ -1,3 +1,3 @@
-UnityAsset解析ツール等で出力したMonoBehaviourデータに含まれるbytesデータをバイナリデータに変換します。
-Dex2Char.exeにファイルをD&Dして変換します。
+UnityAsset解析ツール等で出力したMonoBehaviourデータに含まれるbytesデータをバイナリデータに変換します。  
+Dex2Char.exeにファイルをD&Dして変換します。  
 変換後はDex2Char.exeが入っているディレクトリにOutputフォルダが作成されその中に保存されます。
